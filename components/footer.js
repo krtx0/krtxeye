@@ -7,7 +7,7 @@ class CustomFooter extends HTMLElement {
 
             <!-- Logo & Tagline -->
             <div>
-              <h3 class="text-2xl font-bold mb-4">Dr. Siddhesh Bapat</h3>
+              <h3 class="text-2xl font-bold mb-4">Dr. Kevin Shah</h3>
               <p class="text-gray-300 mb-4">Caring for your vision, one patient at a time.</p>
               <div class="flex space-x-4">
                 <a href="#" class="text-gray-300 hover:text-gold transition duration-300">
@@ -27,7 +27,7 @@ class CustomFooter extends HTMLElement {
               <h4 class="text-lg font-bold mb-4">Quick Links</h4>
               <ul class="space-y-2">
                 <li><a href="#home" class="text-gray-300 hover:text-gold transition duration-300">Home</a></li>
-                <li><a href="#about" class="text-gray-300 hover:text-gold transition duration-300">About Dr. Bapat</a></li>
+                <li><a href="#about" class="text-gray-300 hover:text-gold transition duration-300">About Dr. Shah</a></li>
                 <li><a href="#services" class="text-gray-300 hover:text-gold transition duration-300">Services</a></li>
                 <li><a href="#testimonials" class="text-gray-300 hover:text-gold transition duration-300">Patient Testimonials</a></li>
                 <li><a href="#appointment" class="text-gray-300 hover:text-gold transition duration-300">Book Appointment</a></li>
@@ -40,15 +40,15 @@ class CustomFooter extends HTMLElement {
               <ul class="space-y-3">
                 <li class="flex items-start">
                   <i data-lucide="map-pin" class="text-gold mr-2 mt-1 w-4 h-4 shrink-0"></i>
-                  <span class="text-gray-300">OPD 201, Allcure Superspeciality Hospital, Jogeshwari East, Mumbai 400060</span>
+                  <span class="text-gray-300">OPD 201, Allcure Hospital, Mumbai 400069</span>
                 </li>
                 <li class="flex items-center">
                   <i data-lucide="phone" class="text-gold mr-2 w-4 h-4 shrink-0"></i>
-                  <span class="text-gray-300">+91 22 1234 5678</span>
+                  <span class="text-gray-300">+91 83690 13101</span>
                 </li>
                 <li class="flex items-center">
                   <i data-lucide="mail" class="text-gold mr-2 w-4 h-4 shrink-0"></i>
-                  <span class="text-gray-300">contact@drbapateyeclinic.com</span>
+                  <span class="text-gray-300">contact@drShaheyeclinic.com</span>
                 </li>
               </ul>
             </div>

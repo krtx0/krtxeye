@@ -8,7 +8,7 @@ class CustomHeader extends HTMLElement {
             <!-- Logo -->
             <div class="flex items-center">
               <div class="text-xl md:text-2xl font-bold">
-                <span class="text-white">Dr. Siddhesh Bapat</span>
+                <span class="text-white">Dr. Kevin Shah</span>
                 <span class="text-gold ml-2">|</span>
                 <span class="text-gold-light ml-2 text-sm md:text-lg font-medium">Ophthalmologist</span>
               </div>
